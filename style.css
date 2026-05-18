@@ -1,0 +1,13 @@
+body {
+  font-family: Arial;
+  max-width: 800px;
+  margin: auto;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #222;
+}
